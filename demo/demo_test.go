@@ -8,7 +8,7 @@ import (
 	"net/http"
 )
 
-var _ = Describe("Demo Test", func() {
+var _ = Describe("EB Controller API - Demo Test", func() {
 
 	const BaseAPIURL = "http://192.168.0.7:8085/api"
 	const AuthEndpoint = "auth"

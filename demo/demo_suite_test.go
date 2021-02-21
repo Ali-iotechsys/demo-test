@@ -9,5 +9,5 @@ import (
 
 func TestDemo(t *testing.T) {
 	RegisterFailHandler(Fail)
-	RunSpecs(t, "Demo Test Suite")
+	RunSpecs(t, "EB Controller API - Demo Test Suite")
 }
