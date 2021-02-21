@@ -7,7 +7,7 @@ import (
 	. "github.com/onsi/gomega"
 )
 
-func TestAdder(t *testing.T) {
+func TestDemo(t *testing.T) {
 	RegisterFailHandler(Fail)
-	RunSpecs(t, "Adder Suite")
+	RunSpecs(t, "Demo Test Suite")
 }
